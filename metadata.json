@@ -1,0 +1,7 @@
+{
+  "name": "RailTrack360",
+  "description": "A web application to digitize and track railway track fittings using QR codes and RFID tags, featuring mobile and web interfaces for comprehensive management and AI-driven analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
